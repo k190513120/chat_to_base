@@ -39,25 +39,48 @@ jobs:
         
     - name: Create config file
       run: |
-        cat > config.py << EOF
+        cat > config.py << 'EOF'
+        #!/usr/bin/env python3
+        # -*- coding: utf-8 -*-
+        """
+        飞书API配置文件
+        请根据实际情况修改以下配置
+        """
+
         # 飞书应用配置
         FEISHU_CONFIG = {
-            "app_id": "${{ env.FEISHU_APP_ID }}",
-            "app_secret": "${{ env.FEISHU_APP_SECRET }}"
+            # 应用ID
+            "app_id": "${{ secrets.FEISHU_APP_ID }}",
+            
+            # 应用密钥
+            "app_secret": "${{ secrets.FEISHU_APP_SECRET }}"
         }
 
         # API配置
         API_CONFIG = {
+            # 飞书开放平台API基础URL
             "base_url": "https://open.feishu.cn/open-apis",
-            "request_interval": 0.1,  # 请求间隔（秒）
-            "batch_size": 500  # 批量写入大小
+            
+            # 请求间隔时间（秒）
+            "request_interval": 0.1,
+            
+            # 批量处理大小
+            "batch_size": 500,
+            
+            # token提前刷新时间（秒）
+            "token_refresh_advance": 300
         }
 
         # 日志配置
         LOG_CONFIG = {
+            # 日志级别
             "level": "INFO",
-            "format": "%(asctime)s - %(levelname)s - %(message)s",
-            "filename": "feishu_sync.log"
+            
+            # 日志文件名
+            "filename": "feishu_sync.log",
+            
+            # 日志格式
+            "format": "%(asctime)s - %(levelname)s - %(message)s"
         }
         EOF
         

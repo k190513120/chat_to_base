@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-飞书群成员信息批量获取并写入多维表格脚本
-功能：
-1. 获取飞书群成员信息
-2. 将成员信息批量写入多维表格的人员字段
+飞书群成员同步到多维表格
+支持自动获取群成员信息并写入到指定的多维表格中
 """
 
+import sys
+import os
 import requests
 import json
 import time
@@ -222,9 +222,19 @@ def main():
     # 从配置文件读取配置信息
     APP_ID = FEISHU_CONFIG["app_id"]
     APP_SECRET = FEISHU_CONFIG["app_secret"]
-    BITABLE_URL = FEISHU_CONFIG["bitable_url"]
     
-    # 需要用户输入的群ID
+    # 获取多维表格URL - 优先使用命令行参数，其次使用配置文件
+    BITABLE_URL = None
+    if len(sys.argv) > 1:
+        BITABLE_URL = sys.argv[1].strip()
+    elif "bitable_url" in FEISHU_CONFIG:
+        BITABLE_URL = FEISHU_CONFIG["bitable_url"]
+    
+    if not BITABLE_URL:
+        logger.error("未提供多维表格URL，请通过命令行参数或配置文件提供")
+        return
+    
+    # 获取群ID - 从标准输入读取
     chat_id = input("请输入飞书群ID: ").strip()
     if not chat_id:
         logger.error("群ID不能为空")
