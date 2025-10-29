@@ -50,10 +50,10 @@ jobs:
         # 飞书应用配置
         FEISHU_CONFIG = {
             # 应用ID
-            "app_id": "${{ secrets.FEISHU_APP_ID }}",
+            "app_id": "cli_a757be749210500e",
             
             # 应用密钥
-            "app_secret": "${{ secrets.FEISHU_APP_SECRET }}"
+            "app_secret": "EvAyrNVzqxV7Wp3gET8oA5tjAt1T5ZfJ"
         }
 
         # API配置
