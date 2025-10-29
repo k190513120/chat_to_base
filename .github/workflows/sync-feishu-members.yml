@@ -1,0 +1,81 @@
+name: Sync Feishu Group Members
+
+on:
+  workflow_dispatch:
+    inputs:
+      bitable_url:
+        description: '飞书多维表格URL'
+        required: true
+        type: string
+      chat_id:
+        description: '飞书群ID'
+        required: true
+        type: string
+  schedule:
+    # 每天北京时间上午9点执行 (UTC+8 = UTC+8, 所以是UTC 1点)
+    - cron: '0 1 * * *'
+
+env:
+  FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+  FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+
+jobs:
+  sync-members:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
+    - name: Create config file
+      run: |
+        cat > config.py << EOF
+        # 飞书应用配置
+        FEISHU_CONFIG = {
+            "app_id": "${{ env.FEISHU_APP_ID }}",
+            "app_secret": "${{ env.FEISHU_APP_SECRET }}"
+        }
+
+        # API配置
+        API_CONFIG = {
+            "base_url": "https://open.feishu.cn/open-apis",
+            "request_interval": 0.1,  # 请求间隔（秒）
+            "batch_size": 500  # 批量写入大小
+        }
+
+        # 日志配置
+        LOG_CONFIG = {
+            "level": "INFO",
+            "format": "%(asctime)s - %(levelname)s - %(message)s",
+            "filename": "feishu_sync.log"
+        }
+        EOF
+        
+    - name: Run sync script (manual trigger)
+      if: github.event_name == 'workflow_dispatch'
+      run: |
+        echo "${{ github.event.inputs.chat_id }}" | python feishu_group_members.py "${{ github.event.inputs.bitable_url }}"
+        
+    - name: Run sync script (scheduled)
+      if: github.event_name == 'schedule'
+      run: |
+        # 这里需要配置默认的表格URL和群ID，或者从secrets中读取
+        echo "${{ secrets.DEFAULT_CHAT_ID }}" | python feishu_group_members.py "${{ secrets.DEFAULT_BITABLE_URL }}"
+        
+    - name: Upload logs
+      if: always()
+      uses: actions/upload-artifact@v3
+      with:
+        name: sync-logs
+        path: feishu_sync.log
+        retention-days: 30

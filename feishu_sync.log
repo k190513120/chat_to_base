@@ -1,0 +1,576 @@
+2025-10-28 17:43:07,650 - INFO - 解析得到 app_token: O563bWgIwaIqy1sd9ulc15m6nCe, table_id: tblScOy4AiLem1EO
+2025-10-28 17:43:08,083 - INFO - 成功获取tenant_access_token
+2025-10-28 17:43:08,537 - INFO - 获取到 2 个字段
+2025-10-28 17:43:08,541 - WARNING - 未找到人员字段，将使用文本字段存储用户信息
+2025-10-28 17:43:08,543 - INFO - 将使用文本字段: 文本
+2025-10-28 17:43:08,544 - INFO - 开始获取群成员信息...
+2025-10-28 17:43:09,033 - INFO - 已获取 99 个群成员
+2025-10-28 17:43:09,665 - INFO - 已获取 198 个群成员
+2025-10-28 17:43:10,122 - INFO - 总共获取到 207 个群成员
+2025-10-28 17:43:10,345 - WARNING - 获取用户 ou_c4a71d11cc959cb126f0f14ae11b1cc9 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_c4a71d11cc959cb126f0f14ae11b1cc9
+2025-10-28 17:43:10,664 - WARNING - 获取用户 ou_66183453b0cc91191f605683fe3b924a 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_66183453b0cc91191f605683fe3b924a
+2025-10-28 17:43:10,961 - WARNING - 获取用户 ou_b3aea74bced61d0a3fd2551c86f054a0 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_b3aea74bced61d0a3fd2551c86f054a0
+2025-10-28 17:43:11,325 - WARNING - 获取用户 ou_47de7a1fcc4b92f5bf85522d74dcf2ab 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_47de7a1fcc4b92f5bf85522d74dcf2ab
+2025-10-28 17:43:11,624 - WARNING - 获取用户 ou_a5bf2f8dbd2af6aeeec7cda1016cbd56 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_a5bf2f8dbd2af6aeeec7cda1016cbd56
+2025-10-28 17:43:11,924 - WARNING - 获取用户 ou_c49622f1869f49425903f249dd555c5f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_c49622f1869f49425903f249dd555c5f
+2025-10-28 17:43:12,216 - WARNING - 获取用户 ou_04608ee180f4b2925f44a6c74985f24c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_04608ee180f4b2925f44a6c74985f24c
+2025-10-28 17:43:12,506 - WARNING - 获取用户 ou_3f87f85af34c4dc2755bb1ff9e69eec2 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_3f87f85af34c4dc2755bb1ff9e69eec2
+2025-10-28 17:43:12,838 - WARNING - 获取用户 ou_99e1ba30e6a7a4c870e3ffe3312e17e6 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_99e1ba30e6a7a4c870e3ffe3312e17e6
+2025-10-28 17:43:13,147 - WARNING - 获取用户 ou_e488a7688d832cfbf0db0ec7f16da95d 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_e488a7688d832cfbf0db0ec7f16da95d
+2025-10-28 17:43:13,604 - WARNING - 获取用户 ou_2657d28e9ce38dfe805de8db2cccef7c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_2657d28e9ce38dfe805de8db2cccef7c
+2025-10-28 17:43:13,915 - WARNING - 获取用户 ou_4e5b62adf7f7269f3242a4379408fd79 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_4e5b62adf7f7269f3242a4379408fd79
+2025-10-28 17:43:14,232 - WARNING - 获取用户 ou_e84b761eb9104a928a959fc5350c838c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_e84b761eb9104a928a959fc5350c838c
+2025-10-28 17:43:14,568 - WARNING - 获取用户 ou_3777de5b83b10ff688b38730599408e0 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_3777de5b83b10ff688b38730599408e0
+2025-10-28 17:43:14,856 - WARNING - 获取用户 ou_6316914ab0db50607e206c5fe967242e 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_6316914ab0db50607e206c5fe967242e
+2025-10-28 17:43:15,133 - WARNING - 获取用户 ou_b982df47d32571d1819eb62137fca671 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_b982df47d32571d1819eb62137fca671
+2025-10-28 17:43:15,412 - WARNING - 获取用户 ou_541c850e8f147b60713f940bfecd59db 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_541c850e8f147b60713f940bfecd59db
+2025-10-28 17:43:15,725 - WARNING - 获取用户 ou_0fa52d9fc90b15537d63af483fd705ce 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_0fa52d9fc90b15537d63af483fd705ce
+2025-10-28 17:43:16,028 - WARNING - 获取用户 ou_5abe0b3e3724a796089f84751e33ebd6 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5abe0b3e3724a796089f84751e33ebd6
+2025-10-28 17:43:16,319 - WARNING - 获取用户 ou_3a982bddc7b7b32cc3f67a28dd71d2d9 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_3a982bddc7b7b32cc3f67a28dd71d2d9
+2025-10-28 17:43:16,546 - WARNING - 获取用户 ou_0a833cd3c06e3d8b88ef2a8c7eb2200b 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_0a833cd3c06e3d8b88ef2a8c7eb2200b
+2025-10-28 17:43:16,776 - WARNING - 获取用户 ou_621292a32fc47163a949ae504425454c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_621292a32fc47163a949ae504425454c
+2025-10-28 17:43:17,027 - WARNING - 获取用户 ou_7c332ae4df81e418785a1b5da067e76c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_7c332ae4df81e418785a1b5da067e76c
+2025-10-28 17:43:17,560 - WARNING - 获取用户 ou_8dd0194a4374a12ce2aee25f849dd743 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_8dd0194a4374a12ce2aee25f849dd743
+2025-10-28 17:43:17,811 - WARNING - 获取用户 ou_78ab6fbd1b28660c0e8ff326b99fe933 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_78ab6fbd1b28660c0e8ff326b99fe933
+2025-10-28 17:43:18,045 - WARNING - 获取用户 ou_68e982f074b9fd9beb9b9f9008016411 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_68e982f074b9fd9beb9b9f9008016411
+2025-10-28 17:43:18,258 - WARNING - 获取用户 ou_9b632b82b6a9860b2300da718443975e 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9b632b82b6a9860b2300da718443975e
+2025-10-28 17:43:18,500 - WARNING - 获取用户 ou_9869a0895f25dc7f63426361c6ac4fb5 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9869a0895f25dc7f63426361c6ac4fb5
+2025-10-28 17:43:18,740 - WARNING - 获取用户 ou_a2430da3f77f664f29d1738645d032cb 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_a2430da3f77f664f29d1738645d032cb
+2025-10-28 17:43:18,983 - WARNING - 获取用户 ou_e7c9deedf2a041c6a74f45c58fe8848c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_e7c9deedf2a041c6a74f45c58fe8848c
+2025-10-28 17:43:19,187 - WARNING - 获取用户 ou_acd22d783ffc7a3c0bc11f62c51af683 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_acd22d783ffc7a3c0bc11f62c51af683
+2025-10-28 17:43:19,424 - WARNING - 获取用户 ou_f585bd27b1e4205f526779bccba0c0ca 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_f585bd27b1e4205f526779bccba0c0ca
+2025-10-28 17:43:19,681 - WARNING - 获取用户 ou_108335379193745886325069c03bd91e 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_108335379193745886325069c03bd91e
+2025-10-28 17:43:19,909 - WARNING - 获取用户 ou_6c1835c52e362874c00dbb172b15ec43 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_6c1835c52e362874c00dbb172b15ec43
+2025-10-28 17:43:20,156 - WARNING - 获取用户 ou_9415f21df5b7b25c56ab2119040ed36b 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9415f21df5b7b25c56ab2119040ed36b
+2025-10-28 17:43:20,402 - WARNING - 获取用户 ou_c24e91800adcd35aa6bdd7c6f00da8bb 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_c24e91800adcd35aa6bdd7c6f00da8bb
+2025-10-28 17:43:20,616 - WARNING - 获取用户 ou_a8805561b4a6fb7492fcf02d01dbf052 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_a8805561b4a6fb7492fcf02d01dbf052
+2025-10-28 17:43:20,869 - WARNING - 获取用户 ou_1e0f38516baef98204c830a039672049 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_1e0f38516baef98204c830a039672049
+2025-10-28 17:43:21,191 - WARNING - 获取用户 ou_239406a3b63ad89e3936adaf43c2da2b 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_239406a3b63ad89e3936adaf43c2da2b
+2025-10-28 17:43:21,444 - WARNING - 获取用户 ou_242eddc369bd26c43e8096b4c8252d8f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_242eddc369bd26c43e8096b4c8252d8f
+2025-10-28 17:43:21,678 - WARNING - 获取用户 ou_d70410e1f8377643a45cb0db82af2b73 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_d70410e1f8377643a45cb0db82af2b73
+2025-10-28 17:43:21,891 - WARNING - 获取用户 ou_990f61c3f1dcf4f167d057b4daccb9f3 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_990f61c3f1dcf4f167d057b4daccb9f3
+2025-10-28 17:43:22,126 - WARNING - 获取用户 ou_0b4792498b264ec8de3f7a094e5053fb 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_0b4792498b264ec8de3f7a094e5053fb
+2025-10-28 17:43:22,371 - WARNING - 获取用户 ou_5a121abbc92cd3d89bf53458d1552522 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5a121abbc92cd3d89bf53458d1552522
+2025-10-28 17:43:22,801 - WARNING - 获取用户 ou_8a8601844446bdcf9ee9bda38611b626 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_8a8601844446bdcf9ee9bda38611b626
+2025-10-28 17:43:26,141 - WARNING - 获取用户 ou_7589d45d1265ab5340598553645f6630 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_7589d45d1265ab5340598553645f6630
+2025-10-28 17:43:26,370 - WARNING - 获取用户 ou_a85ba75d2107144297596b937d72aff5 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_a85ba75d2107144297596b937d72aff5
+2025-10-28 17:43:26,550 - WARNING - 获取用户 ou_0cb65e6e6353c157acfc8dbd22b07c8e 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_0cb65e6e6353c157acfc8dbd22b07c8e
+2025-10-28 17:43:26,743 - WARNING - 获取用户 ou_e02a34d95cc1c8ba0358f50a7bab4974 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_e02a34d95cc1c8ba0358f50a7bab4974
+2025-10-28 17:43:26,989 - WARNING - 获取用户 ou_98b4ed026009325d4d9a806326b335ac 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_98b4ed026009325d4d9a806326b335ac
+2025-10-28 17:43:27,336 - WARNING - 获取用户 ou_7d16b910c50e350c0a854781d07c0422 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_7d16b910c50e350c0a854781d07c0422
+2025-10-28 17:43:27,561 - WARNING - 获取用户 ou_e5f5d1a6f4dadf69da652f61bd8517c6 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_e5f5d1a6f4dadf69da652f61bd8517c6
+2025-10-28 17:43:27,770 - WARNING - 获取用户 ou_20e85de6c6f7e48a56f1a35005369947 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_20e85de6c6f7e48a56f1a35005369947
+2025-10-28 17:43:28,012 - WARNING - 获取用户 ou_074d43444c85854341f69b7e3148533c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_074d43444c85854341f69b7e3148533c
+2025-10-28 17:43:28,208 - WARNING - 获取用户 ou_f1f7d4254934217f923b60c4c9f38ab8 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_f1f7d4254934217f923b60c4c9f38ab8
+2025-10-28 17:43:28,479 - WARNING - 获取用户 ou_1c29addda9353d31f83abf72d4ab7326 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_1c29addda9353d31f83abf72d4ab7326
+2025-10-28 17:43:28,671 - WARNING - 获取用户 ou_d11d3cd101e639a5c55d422e286daf1f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_d11d3cd101e639a5c55d422e286daf1f
+2025-10-28 17:43:28,924 - WARNING - 获取用户 ou_5747d486a4613c3c946b7dd1284ad386 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5747d486a4613c3c946b7dd1284ad386
+2025-10-28 17:43:29,129 - WARNING - 获取用户 ou_3041becfb5867a021a0fa44764d525a8 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_3041becfb5867a021a0fa44764d525a8
+2025-10-28 17:43:29,350 - WARNING - 获取用户 ou_7bc5c79756e0f7e5d0489b4f6a419bfc 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_7bc5c79756e0f7e5d0489b4f6a419bfc
+2025-10-28 17:43:29,586 - WARNING - 获取用户 ou_5111cd9a2e048636caa34637389de6c1 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5111cd9a2e048636caa34637389de6c1
+2025-10-28 17:43:29,790 - WARNING - 获取用户 ou_c2c1adc782460fec1a821c384a79efd4 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_c2c1adc782460fec1a821c384a79efd4
+2025-10-28 17:43:30,033 - WARNING - 获取用户 ou_20d902ab3475a2b25696cc7a0598ec09 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_20d902ab3475a2b25696cc7a0598ec09
+2025-10-28 17:43:30,273 - WARNING - 获取用户 ou_733b82394dcbedc29d8b6701cee49396 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_733b82394dcbedc29d8b6701cee49396
+2025-10-28 17:43:30,547 - WARNING - 获取用户 ou_bf36101377039b58eaba01c845f14b0f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_bf36101377039b58eaba01c845f14b0f
+2025-10-28 17:43:30,766 - WARNING - 获取用户 ou_4ba255cb7aedd8e839b79f6fdad577b4 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_4ba255cb7aedd8e839b79f6fdad577b4
+2025-10-28 17:43:31,016 - WARNING - 获取用户 ou_94e6e9cbbfa9ea5f3875ed1e6b9f3ef7 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_94e6e9cbbfa9ea5f3875ed1e6b9f3ef7
+2025-10-28 17:43:31,262 - WARNING - 获取用户 ou_5dec04533665e119404f3c1d121bc56f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5dec04533665e119404f3c1d121bc56f
+2025-10-28 17:43:31,451 - WARNING - 获取用户 ou_18beabb01291fbb2efe9a9c96cccd004 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_18beabb01291fbb2efe9a9c96cccd004
+2025-10-28 17:43:31,669 - WARNING - 获取用户 ou_5314d5853e91385bef1e166c16a21788 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5314d5853e91385bef1e166c16a21788
+2025-10-28 17:43:31,880 - WARNING - 获取用户 ou_2f87d8ef6a09ea6231b4dc2d6f7f80b9 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_2f87d8ef6a09ea6231b4dc2d6f7f80b9
+2025-10-28 17:43:32,074 - WARNING - 获取用户 ou_f3d2c4b838f0e666f90becd334d97663 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_f3d2c4b838f0e666f90becd334d97663
+2025-10-28 17:43:32,269 - WARNING - 获取用户 ou_0c8864800b73e0dcc2cbbc1291c8420c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_0c8864800b73e0dcc2cbbc1291c8420c
+2025-10-28 17:43:32,510 - WARNING - 获取用户 ou_cab83a74e91e0cdaebf05ba47bae2941 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_cab83a74e91e0cdaebf05ba47bae2941
+2025-10-28 17:43:32,755 - WARNING - 获取用户 ou_7f18519a8fa93b80f0f5ecba27b75a0f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_7f18519a8fa93b80f0f5ecba27b75a0f
+2025-10-28 17:43:32,961 - WARNING - 获取用户 ou_ee75385781c048f4283d58de9cf12437 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_ee75385781c048f4283d58de9cf12437
+2025-10-28 17:43:33,198 - WARNING - 获取用户 ou_0bfda0cf05d9edade2f4ec3d1e2def9d 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_0bfda0cf05d9edade2f4ec3d1e2def9d
+2025-10-28 17:43:33,386 - WARNING - 获取用户 ou_b89d9662e699dee63b4588804d204132 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_b89d9662e699dee63b4588804d204132
+2025-10-28 17:43:33,843 - WARNING - 获取用户 ou_46e0d11acd4fb711a0430b0195b8aabe 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_46e0d11acd4fb711a0430b0195b8aabe
+2025-10-28 17:43:34,086 - WARNING - 获取用户 ou_cf03734e50c705d166936ab48218726e 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_cf03734e50c705d166936ab48218726e
+2025-10-28 17:43:34,321 - WARNING - 获取用户 ou_137a309dc06d9aaf76e3eab0f6158011 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_137a309dc06d9aaf76e3eab0f6158011
+2025-10-28 17:43:34,511 - WARNING - 获取用户 ou_87c49e79b0a3d35932e1754b168475cb 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_87c49e79b0a3d35932e1754b168475cb
+2025-10-28 17:43:34,727 - WARNING - 获取用户 ou_1fb6b4e7859a8acf78c26a4e202c2ab0 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_1fb6b4e7859a8acf78c26a4e202c2ab0
+2025-10-28 17:43:34,933 - WARNING - 获取用户 ou_5b3086ac483a0904d660c28bfc11bbd6 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5b3086ac483a0904d660c28bfc11bbd6
+2025-10-28 17:43:35,129 - WARNING - 获取用户 ou_c26ed3570998495db0cfd7f72d4f49bb 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_c26ed3570998495db0cfd7f72d4f49bb
+2025-10-28 17:43:35,375 - WARNING - 获取用户 ou_ff5b7cf2159ae46257772e773c912f63 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_ff5b7cf2159ae46257772e773c912f63
+2025-10-28 17:43:35,619 - WARNING - 获取用户 ou_5abf956a63027b11d272b1d3638607fe 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5abf956a63027b11d272b1d3638607fe
+2025-10-28 17:43:35,812 - WARNING - 获取用户 ou_6ccf5e5a2d5c51eaad5d0c52ace2c7ce 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_6ccf5e5a2d5c51eaad5d0c52ace2c7ce
+2025-10-28 17:43:36,009 - WARNING - 获取用户 ou_8a5f846ddd4b66ed7b578d7c206d2a6e 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_8a5f846ddd4b66ed7b578d7c206d2a6e
+2025-10-28 17:43:36,232 - WARNING - 获取用户 ou_3c5ed27b24ad331fb21b8f9aae25b390 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_3c5ed27b24ad331fb21b8f9aae25b390
+2025-10-28 17:43:36,420 - WARNING - 获取用户 ou_6b039d50d4e1cd61d7b9ca197a7211b3 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_6b039d50d4e1cd61d7b9ca197a7211b3
+2025-10-28 17:43:36,662 - WARNING - 获取用户 ou_d6725ccbaccff4103a6e50c150c7606f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_d6725ccbaccff4103a6e50c150c7606f
+2025-10-28 17:43:36,858 - WARNING - 获取用户 ou_2fb2513fdd5ce62347e777c633f4930a 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_2fb2513fdd5ce62347e777c633f4930a
+2025-10-28 17:43:37,095 - WARNING - 获取用户 ou_0b17d074909061a29aeef946e9db8697 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_0b17d074909061a29aeef946e9db8697
+2025-10-28 17:43:37,291 - WARNING - 获取用户 ou_059ba5e4aeaa9713f1ebebff3c42839f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_059ba5e4aeaa9713f1ebebff3c42839f
+2025-10-28 17:43:37,507 - WARNING - 获取用户 ou_9d28ba8c1edd642f2e5ac29d6c3d0402 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9d28ba8c1edd642f2e5ac29d6c3d0402
+2025-10-28 17:43:37,696 - WARNING - 获取用户 ou_14d695e19dbe607a57186c1d853f7771 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_14d695e19dbe607a57186c1d853f7771
+2025-10-28 17:43:37,902 - WARNING - 获取用户 ou_fef7056aa00e67cb32a4f80d4be48abd 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_fef7056aa00e67cb32a4f80d4be48abd
+2025-10-28 17:43:38,135 - WARNING - 获取用户 ou_90ee5528c4d1b2fcfe4942862127a457 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_90ee5528c4d1b2fcfe4942862127a457
+2025-10-28 17:43:38,367 - WARNING - 获取用户 ou_70a7758fab951189eaa5a70e3019e236 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_70a7758fab951189eaa5a70e3019e236
+2025-10-28 17:43:38,595 - WARNING - 获取用户 ou_8308cdd39ead4b863a58d7cf6c432b59 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_8308cdd39ead4b863a58d7cf6c432b59
+2025-10-28 17:43:38,791 - WARNING - 获取用户 ou_75f53c7429740da9be433a5bdd98ae67 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_75f53c7429740da9be433a5bdd98ae67
+2025-10-28 17:43:39,035 - WARNING - 获取用户 ou_00aa2b4d247b0c75b7ecbbf079b7cc2c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_00aa2b4d247b0c75b7ecbbf079b7cc2c
+2025-10-28 17:43:39,282 - WARNING - 获取用户 ou_11c9491a74b5146a26cf13d9e3732226 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_11c9491a74b5146a26cf13d9e3732226
+2025-10-28 17:43:39,532 - WARNING - 获取用户 ou_92ed62bc327d4814fd3ea07d4dac12fa 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_92ed62bc327d4814fd3ea07d4dac12fa
+2025-10-28 17:43:39,775 - WARNING - 获取用户 ou_4f6fb13d2bfc2de5ab3b06eaa32d3ec8 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_4f6fb13d2bfc2de5ab3b06eaa32d3ec8
+2025-10-28 17:43:40,001 - WARNING - 获取用户 ou_1334d897b0cc3ea0ca6ece9dd391325e 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_1334d897b0cc3ea0ca6ece9dd391325e
+2025-10-28 17:43:40,248 - WARNING - 获取用户 ou_c8d9b72dc999d0394d231710600962a4 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_c8d9b72dc999d0394d231710600962a4
+2025-10-28 17:43:40,465 - WARNING - 获取用户 ou_930349bad220054ea0ebd71e33af7465 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_930349bad220054ea0ebd71e33af7465
+2025-10-28 17:43:40,723 - WARNING - 获取用户 ou_07a7a293e642b7984cca9ed6706ef4ae 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_07a7a293e642b7984cca9ed6706ef4ae
+2025-10-28 17:43:41,055 - WARNING - 获取用户 ou_4916799c72e371a49d2a25b179a46017 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_4916799c72e371a49d2a25b179a46017
+2025-10-28 17:43:41,252 - WARNING - 获取用户 ou_d9ecc31772c85e04885d26772cd38d63 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_d9ecc31772c85e04885d26772cd38d63
+2025-10-28 17:43:41,525 - WARNING - 获取用户 ou_2cdd1a503265b1ad3031489154e10592 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_2cdd1a503265b1ad3031489154e10592
+2025-10-28 17:43:41,738 - WARNING - 获取用户 ou_2e15da9aeb115f6cf3d973dcaf361533 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_2e15da9aeb115f6cf3d973dcaf361533
+2025-10-28 17:43:42,015 - WARNING - 获取用户 ou_e3a56802217a99ee23604252f04b2fba 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_e3a56802217a99ee23604252f04b2fba
+2025-10-28 17:43:42,211 - WARNING - 获取用户 ou_457f1316ae2a8c0e4a777a8bbeefc7c9 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_457f1316ae2a8c0e4a777a8bbeefc7c9
+2025-10-28 17:43:42,396 - WARNING - 获取用户 ou_622565335f3be99d201b857ae8921fd6 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_622565335f3be99d201b857ae8921fd6
+2025-10-28 17:43:42,609 - WARNING - 获取用户 ou_88b065141ce38f24178b0131df6a3b3b 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_88b065141ce38f24178b0131df6a3b3b
+2025-10-28 17:43:42,812 - WARNING - 获取用户 ou_9a62a0ebc050a46439abde8b9269aaf0 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9a62a0ebc050a46439abde8b9269aaf0
+2025-10-28 17:43:43,041 - WARNING - 获取用户 ou_b665f1a000b9048c2fa9895914cd5c2f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_b665f1a000b9048c2fa9895914cd5c2f
+2025-10-28 17:43:43,259 - WARNING - 获取用户 ou_ebdd6bb80893d19d73edc953bdc8f3ad 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_ebdd6bb80893d19d73edc953bdc8f3ad
+2025-10-28 17:43:43,587 - WARNING - 获取用户 ou_9e2b24c4515191f8a98a0cc8a701ffcd 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9e2b24c4515191f8a98a0cc8a701ffcd
+2025-10-28 17:43:43,832 - WARNING - 获取用户 ou_3fd3a7e5c969bb7033a94c2b4f22f45a 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_3fd3a7e5c969bb7033a94c2b4f22f45a
+2025-10-28 17:43:44,035 - WARNING - 获取用户 ou_5cff09bdd527544ed9a019632428971a 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5cff09bdd527544ed9a019632428971a
+2025-10-28 17:43:44,291 - WARNING - 获取用户 ou_dc99aa2771f946e2fd1f1d242432a9e3 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_dc99aa2771f946e2fd1f1d242432a9e3
+2025-10-28 17:43:44,515 - WARNING - 获取用户 ou_75c8dcd921cd4504eb4e26be69ae4c50 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_75c8dcd921cd4504eb4e26be69ae4c50
+2025-10-28 17:43:44,739 - WARNING - 获取用户 ou_ead0f5c786449b1f8d885b9fbe7e7a17 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_ead0f5c786449b1f8d885b9fbe7e7a17
+2025-10-28 17:43:44,956 - WARNING - 获取用户 ou_c8b9ae3e5ca8338fd7e2778d220355a9 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_c8b9ae3e5ca8338fd7e2778d220355a9
+2025-10-28 17:43:45,189 - WARNING - 获取用户 ou_916523de71e63043b2fc9996c7562442 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_916523de71e63043b2fc9996c7562442
+2025-10-28 17:43:45,379 - WARNING - 获取用户 ou_7204b5881c1cbb147981b26f7acf9972 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_7204b5881c1cbb147981b26f7acf9972
+2025-10-28 17:43:45,590 - WARNING - 获取用户 ou_d2b737c5ac6196202580fa95fa8da934 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_d2b737c5ac6196202580fa95fa8da934
+2025-10-28 17:43:45,778 - WARNING - 获取用户 ou_2a52445b2101e5ea649006f50083dfe7 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_2a52445b2101e5ea649006f50083dfe7
+2025-10-28 17:43:45,969 - WARNING - 获取用户 ou_8bbc995af4663b5c38b0a925c2d54b4e 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_8bbc995af4663b5c38b0a925c2d54b4e
+2025-10-28 17:43:46,166 - WARNING - 获取用户 ou_e38041bad94a7f4055bde094dc0b503a 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_e38041bad94a7f4055bde094dc0b503a
+2025-10-28 17:43:46,372 - WARNING - 获取用户 ou_fab0cb63afe6c343190b556889cf6132 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_fab0cb63afe6c343190b556889cf6132
+2025-10-28 17:43:46,561 - WARNING - 获取用户 ou_36a98d33064c2f711b6a15d1951dc5e1 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_36a98d33064c2f711b6a15d1951dc5e1
+2025-10-28 17:43:46,804 - WARNING - 获取用户 ou_f74a65bbdfcf9934615dc1280c4d903f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_f74a65bbdfcf9934615dc1280c4d903f
+2025-10-28 17:43:47,033 - WARNING - 获取用户 ou_9c8afedfd30efcb692d0279689d0709f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9c8afedfd30efcb692d0279689d0709f
+2025-10-28 17:43:47,244 - WARNING - 获取用户 ou_782fb1fa30c0cc15d10913a1b1bcac56 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_782fb1fa30c0cc15d10913a1b1bcac56
+2025-10-28 17:43:47,477 - WARNING - 获取用户 ou_6c1bd31fea1cf9a3286f1ce5cad0769d 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_6c1bd31fea1cf9a3286f1ce5cad0769d
+2025-10-28 17:43:47,678 - WARNING - 获取用户 ou_c0db391660f9572c2a4f890fa209397b 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_c0db391660f9572c2a4f890fa209397b
+2025-10-28 17:43:47,879 - WARNING - 获取用户 ou_f24ffd6435b81cac6c5c3b1ee310d92b 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_f24ffd6435b81cac6c5c3b1ee310d92b
+2025-10-28 17:43:48,146 - WARNING - 获取用户 ou_4b7092f0b9528c01c3bc08f7b20cbdd2 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_4b7092f0b9528c01c3bc08f7b20cbdd2
+2025-10-28 17:43:48,347 - WARNING - 获取用户 ou_61fc1f1d1a096962d7cb118d3eed4c6d 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_61fc1f1d1a096962d7cb118d3eed4c6d
+2025-10-28 17:43:48,541 - WARNING - 获取用户 ou_cfd6b827b16edcb1c450755487985601 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_cfd6b827b16edcb1c450755487985601
+2025-10-28 17:43:48,779 - WARNING - 获取用户 ou_57f888aae08c49c6c6ee5799d5f6c2fd 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_57f888aae08c49c6c6ee5799d5f6c2fd
+2025-10-28 17:43:49,006 - WARNING - 获取用户 ou_7b84ffe784483d5251960569b3bad4fa 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_7b84ffe784483d5251960569b3bad4fa
+2025-10-28 17:43:49,249 - WARNING - 获取用户 ou_d231e7083ec823d40a10f80cba061cec 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_d231e7083ec823d40a10f80cba061cec
+2025-10-28 17:43:49,455 - WARNING - 获取用户 ou_d63fd6b4bb7a3181033920dcc15aa421 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_d63fd6b4bb7a3181033920dcc15aa421
+2025-10-28 17:43:49,700 - WARNING - 获取用户 ou_3e5ec5359b28e5e636510c28dda59972 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_3e5ec5359b28e5e636510c28dda59972
+2025-10-28 17:43:49,893 - WARNING - 获取用户 ou_178372fed265fc7b0d8c566258cbeb98 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_178372fed265fc7b0d8c566258cbeb98
+2025-10-28 17:43:50,110 - WARNING - 获取用户 ou_95c1ef5b8acc95b7f1879d12105ce91f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_95c1ef5b8acc95b7f1879d12105ce91f
+2025-10-28 17:43:50,317 - WARNING - 获取用户 ou_1e08de9ec8057bac1614d2d44216453e 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_1e08de9ec8057bac1614d2d44216453e
+2025-10-28 17:43:50,521 - WARNING - 获取用户 ou_b4fc98037f8eb530878f62c114b8c6e3 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_b4fc98037f8eb530878f62c114b8c6e3
+2025-10-28 17:43:50,777 - WARNING - 获取用户 ou_83e940ad785e59eabf688a930fc9fc43 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_83e940ad785e59eabf688a930fc9fc43
+2025-10-28 17:43:50,982 - WARNING - 获取用户 ou_c7aa0eeec3b0d2e0aa34b8451d1ce224 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_c7aa0eeec3b0d2e0aa34b8451d1ce224
+2025-10-28 17:43:51,203 - WARNING - 获取用户 ou_9652bb3fdae730078b65424584c082b8 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9652bb3fdae730078b65424584c082b8
+2025-10-28 17:43:51,408 - WARNING - 获取用户 ou_9cc642461ed9a1aee8034cdbc1ac306d 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9cc642461ed9a1aee8034cdbc1ac306d
+2025-10-28 17:43:51,657 - WARNING - 获取用户 ou_a3709495ff294de15820c358875ffee8 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_a3709495ff294de15820c358875ffee8
+2025-10-28 17:43:52,163 - WARNING - 获取用户 ou_cdee4d6ea18233c218171335ec2b2e88 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_cdee4d6ea18233c218171335ec2b2e88
+2025-10-28 17:43:52,392 - WARNING - 获取用户 ou_e256ca04c8698eb09d4503d490603689 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_e256ca04c8698eb09d4503d490603689
+2025-10-28 17:43:52,640 - WARNING - 获取用户 ou_979efcef970580cf7db1e4eca97d5712 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_979efcef970580cf7db1e4eca97d5712
+2025-10-28 17:43:52,845 - WARNING - 获取用户 ou_fd04f38fefdc6b6e6651097f83f4593d 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_fd04f38fefdc6b6e6651097f83f4593d
+2025-10-28 17:43:53,053 - WARNING - 获取用户 ou_0d8369bf5c3491a71350a727d4413c2c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_0d8369bf5c3491a71350a727d4413c2c
+2025-10-28 17:43:53,239 - WARNING - 获取用户 ou_4820e0b5139d8097a8dc2a357d4bb0a1 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_4820e0b5139d8097a8dc2a357d4bb0a1
+2025-10-28 17:43:53,431 - WARNING - 获取用户 ou_23cf4a411aee2ce443cee01a0683474e 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_23cf4a411aee2ce443cee01a0683474e
+2025-10-28 17:43:53,659 - WARNING - 获取用户 ou_893d601fc5e699beed63776979a2c4e9 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_893d601fc5e699beed63776979a2c4e9
+2025-10-28 17:43:53,902 - WARNING - 获取用户 ou_5bd944974d103db907c34926e949445b 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5bd944974d103db907c34926e949445b
+2025-10-28 17:43:54,147 - WARNING - 获取用户 ou_9421f95e733447f7c1ba5e51cf8d9a62 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9421f95e733447f7c1ba5e51cf8d9a62
+2025-10-28 17:43:54,348 - WARNING - 获取用户 ou_48a16bbd7382f4fb6f50d8b1371f4405 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_48a16bbd7382f4fb6f50d8b1371f4405
+2025-10-28 17:43:54,563 - WARNING - 获取用户 ou_4fd3ef45465b82bd2eeb1cf560e2820f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_4fd3ef45465b82bd2eeb1cf560e2820f
+2025-10-28 17:43:54,808 - WARNING - 获取用户 ou_2aff9e5547e13cc494d6439dd7d4a8a0 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_2aff9e5547e13cc494d6439dd7d4a8a0
+2025-10-28 17:43:55,058 - WARNING - 获取用户 ou_287dcc5b9941b27070d3458d89d7e48d 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_287dcc5b9941b27070d3458d89d7e48d
+2025-10-28 17:43:55,262 - WARNING - 获取用户 ou_6fdd9b43cc812d16993138f4188480dc 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_6fdd9b43cc812d16993138f4188480dc
+2025-10-28 17:43:55,451 - WARNING - 获取用户 ou_76e556041a7693435b55b298aefe8154 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_76e556041a7693435b55b298aefe8154
+2025-10-28 17:43:55,666 - WARNING - 获取用户 ou_dd9888df2b5ed39443e442ece4948810 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_dd9888df2b5ed39443e442ece4948810
+2025-10-28 17:43:55,862 - WARNING - 获取用户 ou_e39183fe67d7bf909e09b191874734bb 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_e39183fe67d7bf909e09b191874734bb
+2025-10-28 17:43:56,063 - WARNING - 获取用户 ou_9c6c42107f7de0b2500437064188a2c8 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9c6c42107f7de0b2500437064188a2c8
+2025-10-28 17:43:56,279 - WARNING - 获取用户 ou_1fb2c85b6cdb2924ee7742c8ba8bcde9 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_1fb2c85b6cdb2924ee7742c8ba8bcde9
+2025-10-28 17:43:56,528 - WARNING - 获取用户 ou_5e645bf03152535836027a05a818512c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5e645bf03152535836027a05a818512c
+2025-10-28 17:43:56,734 - WARNING - 获取用户 ou_993acb897682d3409495411612d3204f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_993acb897682d3409495411612d3204f
+2025-10-28 17:43:56,940 - WARNING - 获取用户 ou_bf918bebe74ade3ed0dd2d5388c588c4 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_bf918bebe74ade3ed0dd2d5388c588c4
+2025-10-28 17:43:57,155 - WARNING - 获取用户 ou_4a215aa005f8f46a6b0a69eac03e7f30 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_4a215aa005f8f46a6b0a69eac03e7f30
+2025-10-28 17:43:57,427 - WARNING - 获取用户 ou_f8e4f90538b24e02f7ab789d3db91e88 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_f8e4f90538b24e02f7ab789d3db91e88
+2025-10-28 17:43:57,668 - WARNING - 获取用户 ou_8ddb124c478f59632253b3dc8db563e1 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_8ddb124c478f59632253b3dc8db563e1
+2025-10-28 17:43:57,915 - WARNING - 获取用户 ou_af270f238f8f5f53851d4d70ccc4cf5e 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_af270f238f8f5f53851d4d70ccc4cf5e
+2025-10-28 17:43:58,224 - WARNING - 获取用户 ou_9fe073330153c1db1193e19333e15194 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9fe073330153c1db1193e19333e15194
+2025-10-28 17:43:58,471 - WARNING - 获取用户 ou_0bc47def84505b00b09233d09da55802 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_0bc47def84505b00b09233d09da55802
+2025-10-28 17:43:58,686 - WARNING - 获取用户 ou_f2bbc2d390511d38a0036d8b5d950d1c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_f2bbc2d390511d38a0036d8b5d950d1c
+2025-10-28 17:43:58,917 - WARNING - 获取用户 ou_55be2d729329c00301444a6a783534c6 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_55be2d729329c00301444a6a783534c6
+2025-10-28 17:43:59,560 - WARNING - 获取用户 ou_a470055215e716374333172cab2d3d9a 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_a470055215e716374333172cab2d3d9a
+2025-10-28 17:43:59,803 - WARNING - 获取用户 ou_30cf0120395720a85b5dc9225e7ab836 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_30cf0120395720a85b5dc9225e7ab836
+2025-10-28 17:44:00,044 - WARNING - 获取用户 ou_3b72ffa30a0f75a10c429227bc7d821d 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_3b72ffa30a0f75a10c429227bc7d821d
+2025-10-28 17:44:00,273 - WARNING - 获取用户 ou_a06c0d4c84bc04a74e23ed268d63b118 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_a06c0d4c84bc04a74e23ed268d63b118
+2025-10-28 17:44:00,464 - WARNING - 获取用户 ou_87d9b10d0cdc31ef83f19040afedc5b8 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_87d9b10d0cdc31ef83f19040afedc5b8
+2025-10-28 17:44:00,688 - WARNING - 获取用户 ou_b1dc253f35a1ba1e6572c173fd6d2b28 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_b1dc253f35a1ba1e6572c173fd6d2b28
+2025-10-28 17:44:00,944 - WARNING - 获取用户 ou_44648b4c2b169b8c2936d9caff000856 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_44648b4c2b169b8c2936d9caff000856
+2025-10-28 17:44:01,191 - WARNING - 获取用户 ou_5109fc97846043ff5a1abd462f39c20f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5109fc97846043ff5a1abd462f39c20f
+2025-10-28 17:44:01,385 - WARNING - 获取用户 ou_a086794d822035507dcfe18c081d9553 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_a086794d822035507dcfe18c081d9553
+2025-10-28 17:44:01,591 - WARNING - 获取用户 ou_b5da34a57de9964c04a64541bda5a4e0 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_b5da34a57de9964c04a64541bda5a4e0
+2025-10-28 17:44:01,793 - WARNING - 获取用户 ou_a2891d6e974a5addd53a77f453634a99 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_a2891d6e974a5addd53a77f453634a99
+2025-10-28 17:44:02,007 - WARNING - 获取用户 ou_b312bd3131dce93a5debacaae9a25210 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_b312bd3131dce93a5debacaae9a25210
+2025-10-28 17:44:02,256 - WARNING - 获取用户 ou_f60e7e626591ffccefb1b181941174b1 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_f60e7e626591ffccefb1b181941174b1
+2025-10-28 17:44:02,449 - WARNING - 获取用户 ou_3ab818ddef2aba20ead923d3f21a4b93 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_3ab818ddef2aba20ead923d3f21a4b93
+2025-10-28 17:44:02,659 - WARNING - 获取用户 ou_6f3b48fddbb9c082d0d7c01992f68129 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_6f3b48fddbb9c082d0d7c01992f68129
+2025-10-28 17:44:02,864 - WARNING - 获取用户 ou_a6d4a9193375bbf85addef7888746b95 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_a6d4a9193375bbf85addef7888746b95
+2025-10-28 17:44:03,081 - WARNING - 获取用户 ou_a36d862a390ece6730a3f3a7f6faab28 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_a36d862a390ece6730a3f3a7f6faab28
+2025-10-28 17:44:03,138 - INFO - 开始写入 207 条记录到多维表格...
+2025-10-28 17:44:04,929 - INFO - 成功添加第 1 批记录 (207 条)
+2025-10-28 17:44:05,133 - INFO - 所有记录添加完成，总计 207 条
+2025-10-28 17:44:05,194 - INFO - ✅ 群成员信息已成功写入多维表格！
+2025-10-28 17:46:37,162 - INFO - 解析得到 app_token: O563bWgIwaIqy1sd9ulc15m6nCe, table_id: tblScOy4AiLem1EO
+2025-10-28 17:46:37,334 - INFO - 成功获取tenant_access_token
+2025-10-28 17:46:37,770 - INFO - 获取到 2 个字段
+2025-10-28 17:46:37,773 - INFO - 找到人员字段: 人员
+2025-10-28 17:46:37,773 - INFO - 开始获取群成员信息...
+2025-10-28 17:46:38,137 - INFO - 已获取 99 个群成员
+2025-10-28 17:46:38,614 - INFO - 已获取 198 个群成员
+2025-10-28 17:46:38,970 - INFO - 总共获取到 207 个群成员
+2025-10-28 17:46:39,103 - WARNING - 获取用户 ou_c4a71d11cc959cb126f0f14ae11b1cc9 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_c4a71d11cc959cb126f0f14ae11b1cc9
+2025-10-28 17:46:39,314 - WARNING - 获取用户 ou_66183453b0cc91191f605683fe3b924a 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_66183453b0cc91191f605683fe3b924a
+2025-10-28 17:46:39,536 - WARNING - 获取用户 ou_b3aea74bced61d0a3fd2551c86f054a0 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_b3aea74bced61d0a3fd2551c86f054a0
+2025-10-28 17:46:39,774 - WARNING - 获取用户 ou_47de7a1fcc4b92f5bf85522d74dcf2ab 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_47de7a1fcc4b92f5bf85522d74dcf2ab
+2025-10-28 17:46:39,984 - WARNING - 获取用户 ou_a5bf2f8dbd2af6aeeec7cda1016cbd56 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_a5bf2f8dbd2af6aeeec7cda1016cbd56
+2025-10-28 17:46:40,205 - WARNING - 获取用户 ou_c49622f1869f49425903f249dd555c5f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_c49622f1869f49425903f249dd555c5f
+2025-10-28 17:46:40,436 - WARNING - 获取用户 ou_04608ee180f4b2925f44a6c74985f24c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_04608ee180f4b2925f44a6c74985f24c
+2025-10-28 17:46:40,636 - WARNING - 获取用户 ou_3f87f85af34c4dc2755bb1ff9e69eec2 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_3f87f85af34c4dc2755bb1ff9e69eec2
+2025-10-28 17:46:40,836 - WARNING - 获取用户 ou_99e1ba30e6a7a4c870e3ffe3312e17e6 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_99e1ba30e6a7a4c870e3ffe3312e17e6
+2025-10-28 17:46:41,040 - WARNING - 获取用户 ou_e488a7688d832cfbf0db0ec7f16da95d 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_e488a7688d832cfbf0db0ec7f16da95d
+2025-10-28 17:46:41,262 - WARNING - 获取用户 ou_2657d28e9ce38dfe805de8db2cccef7c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_2657d28e9ce38dfe805de8db2cccef7c
+2025-10-28 17:46:41,472 - WARNING - 获取用户 ou_4e5b62adf7f7269f3242a4379408fd79 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_4e5b62adf7f7269f3242a4379408fd79
+2025-10-28 17:46:41,680 - WARNING - 获取用户 ou_e84b761eb9104a928a959fc5350c838c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_e84b761eb9104a928a959fc5350c838c
+2025-10-28 17:46:41,870 - WARNING - 获取用户 ou_3777de5b83b10ff688b38730599408e0 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_3777de5b83b10ff688b38730599408e0
+2025-10-28 17:46:42,132 - WARNING - 获取用户 ou_6316914ab0db50607e206c5fe967242e 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_6316914ab0db50607e206c5fe967242e
+2025-10-28 17:46:42,336 - WARNING - 获取用户 ou_b982df47d32571d1819eb62137fca671 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_b982df47d32571d1819eb62137fca671
+2025-10-28 17:46:42,527 - WARNING - 获取用户 ou_541c850e8f147b60713f940bfecd59db 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_541c850e8f147b60713f940bfecd59db
+2025-10-28 17:46:42,731 - WARNING - 获取用户 ou_0fa52d9fc90b15537d63af483fd705ce 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_0fa52d9fc90b15537d63af483fd705ce
+2025-10-28 17:46:42,950 - WARNING - 获取用户 ou_5abe0b3e3724a796089f84751e33ebd6 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5abe0b3e3724a796089f84751e33ebd6
+2025-10-28 17:46:43,163 - WARNING - 获取用户 ou_3a982bddc7b7b32cc3f67a28dd71d2d9 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_3a982bddc7b7b32cc3f67a28dd71d2d9
+2025-10-28 17:46:43,405 - WARNING - 获取用户 ou_0a833cd3c06e3d8b88ef2a8c7eb2200b 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_0a833cd3c06e3d8b88ef2a8c7eb2200b
+2025-10-28 17:46:43,613 - WARNING - 获取用户 ou_621292a32fc47163a949ae504425454c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_621292a32fc47163a949ae504425454c
+2025-10-28 17:46:43,807 - WARNING - 获取用户 ou_7c332ae4df81e418785a1b5da067e76c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_7c332ae4df81e418785a1b5da067e76c
+2025-10-28 17:46:44,098 - WARNING - 获取用户 ou_8dd0194a4374a12ce2aee25f849dd743 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_8dd0194a4374a12ce2aee25f849dd743
+2025-10-28 17:46:44,319 - WARNING - 获取用户 ou_78ab6fbd1b28660c0e8ff326b99fe933 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_78ab6fbd1b28660c0e8ff326b99fe933
+2025-10-28 17:46:44,564 - WARNING - 获取用户 ou_68e982f074b9fd9beb9b9f9008016411 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_68e982f074b9fd9beb9b9f9008016411
+2025-10-28 17:46:44,770 - WARNING - 获取用户 ou_9b632b82b6a9860b2300da718443975e 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9b632b82b6a9860b2300da718443975e
+2025-10-28 17:46:45,013 - WARNING - 获取用户 ou_9869a0895f25dc7f63426361c6ac4fb5 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9869a0895f25dc7f63426361c6ac4fb5
+2025-10-28 17:46:45,247 - WARNING - 获取用户 ou_a2430da3f77f664f29d1738645d032cb 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_a2430da3f77f664f29d1738645d032cb
+2025-10-28 17:46:45,483 - WARNING - 获取用户 ou_e7c9deedf2a041c6a74f45c58fe8848c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_e7c9deedf2a041c6a74f45c58fe8848c
+2025-10-28 17:46:45,714 - WARNING - 获取用户 ou_acd22d783ffc7a3c0bc11f62c51af683 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_acd22d783ffc7a3c0bc11f62c51af683
+2025-10-28 17:46:45,922 - WARNING - 获取用户 ou_f585bd27b1e4205f526779bccba0c0ca 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_f585bd27b1e4205f526779bccba0c0ca
+2025-10-28 17:46:46,160 - WARNING - 获取用户 ou_108335379193745886325069c03bd91e 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_108335379193745886325069c03bd91e
+2025-10-28 17:46:46,346 - WARNING - 获取用户 ou_6c1835c52e362874c00dbb172b15ec43 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_6c1835c52e362874c00dbb172b15ec43
+2025-10-28 17:46:46,582 - WARNING - 获取用户 ou_9415f21df5b7b25c56ab2119040ed36b 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9415f21df5b7b25c56ab2119040ed36b
+2025-10-28 17:46:46,813 - WARNING - 获取用户 ou_c24e91800adcd35aa6bdd7c6f00da8bb 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_c24e91800adcd35aa6bdd7c6f00da8bb
+2025-10-28 17:46:47,000 - WARNING - 获取用户 ou_a8805561b4a6fb7492fcf02d01dbf052 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_a8805561b4a6fb7492fcf02d01dbf052
+2025-10-28 17:46:47,240 - WARNING - 获取用户 ou_1e0f38516baef98204c830a039672049 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_1e0f38516baef98204c830a039672049
+2025-10-28 17:46:47,437 - WARNING - 获取用户 ou_239406a3b63ad89e3936adaf43c2da2b 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_239406a3b63ad89e3936adaf43c2da2b
+2025-10-28 17:46:47,646 - WARNING - 获取用户 ou_242eddc369bd26c43e8096b4c8252d8f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_242eddc369bd26c43e8096b4c8252d8f
+2025-10-28 17:46:47,850 - WARNING - 获取用户 ou_d70410e1f8377643a45cb0db82af2b73 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_d70410e1f8377643a45cb0db82af2b73
+2025-10-28 17:46:48,040 - WARNING - 获取用户 ou_990f61c3f1dcf4f167d057b4daccb9f3 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_990f61c3f1dcf4f167d057b4daccb9f3
+2025-10-28 17:46:48,257 - WARNING - 获取用户 ou_0b4792498b264ec8de3f7a094e5053fb 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_0b4792498b264ec8de3f7a094e5053fb
+2025-10-28 17:46:48,465 - WARNING - 获取用户 ou_5a121abbc92cd3d89bf53458d1552522 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5a121abbc92cd3d89bf53458d1552522
+2025-10-28 17:46:48,652 - WARNING - 获取用户 ou_8a8601844446bdcf9ee9bda38611b626 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_8a8601844446bdcf9ee9bda38611b626
+2025-10-28 17:46:48,878 - WARNING - 获取用户 ou_7589d45d1265ab5340598553645f6630 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_7589d45d1265ab5340598553645f6630
+2025-10-28 17:46:49,086 - WARNING - 获取用户 ou_a85ba75d2107144297596b937d72aff5 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_a85ba75d2107144297596b937d72aff5
+2025-10-28 17:46:49,308 - WARNING - 获取用户 ou_0cb65e6e6353c157acfc8dbd22b07c8e 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_0cb65e6e6353c157acfc8dbd22b07c8e
+2025-10-28 17:46:49,644 - WARNING - 获取用户 ou_e02a34d95cc1c8ba0358f50a7bab4974 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_e02a34d95cc1c8ba0358f50a7bab4974
+2025-10-28 17:46:49,864 - WARNING - 获取用户 ou_98b4ed026009325d4d9a806326b335ac 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_98b4ed026009325d4d9a806326b335ac
+2025-10-28 17:46:50,145 - WARNING - 获取用户 ou_7d16b910c50e350c0a854781d07c0422 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_7d16b910c50e350c0a854781d07c0422
+2025-10-28 17:46:50,355 - WARNING - 获取用户 ou_e5f5d1a6f4dadf69da652f61bd8517c6 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_e5f5d1a6f4dadf69da652f61bd8517c6
+2025-10-28 17:46:50,573 - WARNING - 获取用户 ou_20e85de6c6f7e48a56f1a35005369947 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_20e85de6c6f7e48a56f1a35005369947
+2025-10-28 17:46:50,759 - WARNING - 获取用户 ou_074d43444c85854341f69b7e3148533c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_074d43444c85854341f69b7e3148533c
+2025-10-28 17:46:50,980 - WARNING - 获取用户 ou_f1f7d4254934217f923b60c4c9f38ab8 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_f1f7d4254934217f923b60c4c9f38ab8
+2025-10-28 17:46:51,180 - WARNING - 获取用户 ou_1c29addda9353d31f83abf72d4ab7326 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_1c29addda9353d31f83abf72d4ab7326
+2025-10-28 17:46:51,400 - WARNING - 获取用户 ou_d11d3cd101e639a5c55d422e286daf1f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_d11d3cd101e639a5c55d422e286daf1f
+2025-10-28 17:46:51,606 - WARNING - 获取用户 ou_5747d486a4613c3c946b7dd1284ad386 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5747d486a4613c3c946b7dd1284ad386
+2025-10-28 17:46:51,807 - WARNING - 获取用户 ou_3041becfb5867a021a0fa44764d525a8 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_3041becfb5867a021a0fa44764d525a8
+2025-10-28 17:46:52,012 - WARNING - 获取用户 ou_7bc5c79756e0f7e5d0489b4f6a419bfc 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_7bc5c79756e0f7e5d0489b4f6a419bfc
+2025-10-28 17:46:52,246 - WARNING - 获取用户 ou_5111cd9a2e048636caa34637389de6c1 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5111cd9a2e048636caa34637389de6c1
+2025-10-28 17:46:52,461 - WARNING - 获取用户 ou_c2c1adc782460fec1a821c384a79efd4 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_c2c1adc782460fec1a821c384a79efd4
+2025-10-28 17:46:52,668 - WARNING - 获取用户 ou_20d902ab3475a2b25696cc7a0598ec09 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_20d902ab3475a2b25696cc7a0598ec09
+2025-10-28 17:46:52,861 - WARNING - 获取用户 ou_733b82394dcbedc29d8b6701cee49396 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_733b82394dcbedc29d8b6701cee49396
+2025-10-28 17:46:53,064 - WARNING - 获取用户 ou_bf36101377039b58eaba01c845f14b0f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_bf36101377039b58eaba01c845f14b0f
+2025-10-28 17:46:53,291 - WARNING - 获取用户 ou_4ba255cb7aedd8e839b79f6fdad577b4 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_4ba255cb7aedd8e839b79f6fdad577b4
+2025-10-28 17:46:53,506 - WARNING - 获取用户 ou_94e6e9cbbfa9ea5f3875ed1e6b9f3ef7 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_94e6e9cbbfa9ea5f3875ed1e6b9f3ef7
+2025-10-28 17:46:53,708 - WARNING - 获取用户 ou_5dec04533665e119404f3c1d121bc56f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5dec04533665e119404f3c1d121bc56f
+2025-10-28 17:46:53,909 - WARNING - 获取用户 ou_18beabb01291fbb2efe9a9c96cccd004 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_18beabb01291fbb2efe9a9c96cccd004
+2025-10-28 17:46:54,120 - WARNING - 获取用户 ou_5314d5853e91385bef1e166c16a21788 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5314d5853e91385bef1e166c16a21788
+2025-10-28 17:46:54,338 - WARNING - 获取用户 ou_2f87d8ef6a09ea6231b4dc2d6f7f80b9 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_2f87d8ef6a09ea6231b4dc2d6f7f80b9
+2025-10-28 17:46:54,538 - WARNING - 获取用户 ou_f3d2c4b838f0e666f90becd334d97663 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_f3d2c4b838f0e666f90becd334d97663
+2025-10-28 17:46:54,749 - WARNING - 获取用户 ou_0c8864800b73e0dcc2cbbc1291c8420c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_0c8864800b73e0dcc2cbbc1291c8420c
+2025-10-28 17:46:54,949 - WARNING - 获取用户 ou_cab83a74e91e0cdaebf05ba47bae2941 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_cab83a74e91e0cdaebf05ba47bae2941
+2025-10-28 17:46:55,136 - WARNING - 获取用户 ou_7f18519a8fa93b80f0f5ecba27b75a0f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_7f18519a8fa93b80f0f5ecba27b75a0f
+2025-10-28 17:46:55,335 - WARNING - 获取用户 ou_ee75385781c048f4283d58de9cf12437 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_ee75385781c048f4283d58de9cf12437
+2025-10-28 17:46:55,575 - WARNING - 获取用户 ou_0bfda0cf05d9edade2f4ec3d1e2def9d 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_0bfda0cf05d9edade2f4ec3d1e2def9d
+2025-10-28 17:46:55,793 - WARNING - 获取用户 ou_b89d9662e699dee63b4588804d204132 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_b89d9662e699dee63b4588804d204132
+2025-10-28 17:46:56,044 - WARNING - 获取用户 ou_46e0d11acd4fb711a0430b0195b8aabe 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_46e0d11acd4fb711a0430b0195b8aabe
+2025-10-28 17:46:56,226 - WARNING - 获取用户 ou_cf03734e50c705d166936ab48218726e 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_cf03734e50c705d166936ab48218726e
+2025-10-28 17:46:56,418 - WARNING - 获取用户 ou_137a309dc06d9aaf76e3eab0f6158011 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_137a309dc06d9aaf76e3eab0f6158011
+2025-10-28 17:46:56,660 - WARNING - 获取用户 ou_87c49e79b0a3d35932e1754b168475cb 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_87c49e79b0a3d35932e1754b168475cb
+2025-10-28 17:46:56,926 - WARNING - 获取用户 ou_1fb6b4e7859a8acf78c26a4e202c2ab0 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_1fb6b4e7859a8acf78c26a4e202c2ab0
+2025-10-28 17:46:57,139 - WARNING - 获取用户 ou_5b3086ac483a0904d660c28bfc11bbd6 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5b3086ac483a0904d660c28bfc11bbd6
+2025-10-28 17:46:57,323 - WARNING - 获取用户 ou_c26ed3570998495db0cfd7f72d4f49bb 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_c26ed3570998495db0cfd7f72d4f49bb
+2025-10-28 17:46:57,524 - WARNING - 获取用户 ou_ff5b7cf2159ae46257772e773c912f63 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_ff5b7cf2159ae46257772e773c912f63
+2025-10-28 17:46:57,745 - WARNING - 获取用户 ou_5abf956a63027b11d272b1d3638607fe 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5abf956a63027b11d272b1d3638607fe
+2025-10-28 17:46:57,951 - WARNING - 获取用户 ou_6ccf5e5a2d5c51eaad5d0c52ace2c7ce 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_6ccf5e5a2d5c51eaad5d0c52ace2c7ce
+2025-10-28 17:46:58,208 - WARNING - 获取用户 ou_8a5f846ddd4b66ed7b578d7c206d2a6e 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_8a5f846ddd4b66ed7b578d7c206d2a6e
+2025-10-28 17:46:58,411 - WARNING - 获取用户 ou_3c5ed27b24ad331fb21b8f9aae25b390 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_3c5ed27b24ad331fb21b8f9aae25b390
+2025-10-28 17:46:58,604 - WARNING - 获取用户 ou_6b039d50d4e1cd61d7b9ca197a7211b3 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_6b039d50d4e1cd61d7b9ca197a7211b3
+2025-10-28 17:46:58,831 - WARNING - 获取用户 ou_d6725ccbaccff4103a6e50c150c7606f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_d6725ccbaccff4103a6e50c150c7606f
+2025-10-28 17:46:59,297 - WARNING - 获取用户 ou_2fb2513fdd5ce62347e777c633f4930a 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_2fb2513fdd5ce62347e777c633f4930a
+2025-10-28 17:46:59,592 - WARNING - 获取用户 ou_0b17d074909061a29aeef946e9db8697 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_0b17d074909061a29aeef946e9db8697
+2025-10-28 17:46:59,777 - WARNING - 获取用户 ou_059ba5e4aeaa9713f1ebebff3c42839f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_059ba5e4aeaa9713f1ebebff3c42839f
+2025-10-28 17:47:00,046 - WARNING - 获取用户 ou_9d28ba8c1edd642f2e5ac29d6c3d0402 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9d28ba8c1edd642f2e5ac29d6c3d0402
+2025-10-28 17:47:00,250 - WARNING - 获取用户 ou_14d695e19dbe607a57186c1d853f7771 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_14d695e19dbe607a57186c1d853f7771
+2025-10-28 17:47:00,479 - WARNING - 获取用户 ou_fef7056aa00e67cb32a4f80d4be48abd 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_fef7056aa00e67cb32a4f80d4be48abd
+2025-10-28 17:47:00,670 - WARNING - 获取用户 ou_90ee5528c4d1b2fcfe4942862127a457 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_90ee5528c4d1b2fcfe4942862127a457
+2025-10-28 17:47:00,859 - WARNING - 获取用户 ou_70a7758fab951189eaa5a70e3019e236 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_70a7758fab951189eaa5a70e3019e236
+2025-10-28 17:47:01,105 - WARNING - 获取用户 ou_8308cdd39ead4b863a58d7cf6c432b59 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_8308cdd39ead4b863a58d7cf6c432b59
+2025-10-28 17:47:01,328 - WARNING - 获取用户 ou_75f53c7429740da9be433a5bdd98ae67 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_75f53c7429740da9be433a5bdd98ae67
+2025-10-28 17:47:01,528 - WARNING - 获取用户 ou_00aa2b4d247b0c75b7ecbbf079b7cc2c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_00aa2b4d247b0c75b7ecbbf079b7cc2c
+2025-10-28 17:47:01,758 - WARNING - 获取用户 ou_11c9491a74b5146a26cf13d9e3732226 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_11c9491a74b5146a26cf13d9e3732226
+2025-10-28 17:47:01,951 - WARNING - 获取用户 ou_92ed62bc327d4814fd3ea07d4dac12fa 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_92ed62bc327d4814fd3ea07d4dac12fa
+2025-10-28 17:47:02,149 - WARNING - 获取用户 ou_4f6fb13d2bfc2de5ab3b06eaa32d3ec8 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_4f6fb13d2bfc2de5ab3b06eaa32d3ec8
+2025-10-28 17:47:02,354 - WARNING - 获取用户 ou_1334d897b0cc3ea0ca6ece9dd391325e 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_1334d897b0cc3ea0ca6ece9dd391325e
+2025-10-28 17:47:02,605 - WARNING - 获取用户 ou_c8d9b72dc999d0394d231710600962a4 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_c8d9b72dc999d0394d231710600962a4
+2025-10-28 17:47:02,818 - WARNING - 获取用户 ou_930349bad220054ea0ebd71e33af7465 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_930349bad220054ea0ebd71e33af7465
+2025-10-28 17:47:03,042 - WARNING - 获取用户 ou_07a7a293e642b7984cca9ed6706ef4ae 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_07a7a293e642b7984cca9ed6706ef4ae
+2025-10-28 17:47:03,271 - WARNING - 获取用户 ou_4916799c72e371a49d2a25b179a46017 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_4916799c72e371a49d2a25b179a46017
+2025-10-28 17:47:03,473 - WARNING - 获取用户 ou_d9ecc31772c85e04885d26772cd38d63 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_d9ecc31772c85e04885d26772cd38d63
+2025-10-28 17:47:03,686 - WARNING - 获取用户 ou_2cdd1a503265b1ad3031489154e10592 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_2cdd1a503265b1ad3031489154e10592
+2025-10-28 17:47:03,875 - WARNING - 获取用户 ou_2e15da9aeb115f6cf3d973dcaf361533 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_2e15da9aeb115f6cf3d973dcaf361533
+2025-10-28 17:47:04,101 - WARNING - 获取用户 ou_e3a56802217a99ee23604252f04b2fba 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_e3a56802217a99ee23604252f04b2fba
+2025-10-28 17:47:04,358 - WARNING - 获取用户 ou_457f1316ae2a8c0e4a777a8bbeefc7c9 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_457f1316ae2a8c0e4a777a8bbeefc7c9
+2025-10-28 17:47:04,571 - WARNING - 获取用户 ou_622565335f3be99d201b857ae8921fd6 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_622565335f3be99d201b857ae8921fd6
+2025-10-28 17:47:04,807 - WARNING - 获取用户 ou_88b065141ce38f24178b0131df6a3b3b 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_88b065141ce38f24178b0131df6a3b3b
+2025-10-28 17:47:05,029 - WARNING - 获取用户 ou_9a62a0ebc050a46439abde8b9269aaf0 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9a62a0ebc050a46439abde8b9269aaf0
+2025-10-28 17:47:05,217 - WARNING - 获取用户 ou_b665f1a000b9048c2fa9895914cd5c2f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_b665f1a000b9048c2fa9895914cd5c2f
+2025-10-28 17:47:05,417 - WARNING - 获取用户 ou_ebdd6bb80893d19d73edc953bdc8f3ad 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_ebdd6bb80893d19d73edc953bdc8f3ad
+2025-10-28 17:47:05,637 - WARNING - 获取用户 ou_9e2b24c4515191f8a98a0cc8a701ffcd 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9e2b24c4515191f8a98a0cc8a701ffcd
+2025-10-28 17:47:05,849 - WARNING - 获取用户 ou_3fd3a7e5c969bb7033a94c2b4f22f45a 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_3fd3a7e5c969bb7033a94c2b4f22f45a
+2025-10-28 17:47:06,052 - WARNING - 获取用户 ou_5cff09bdd527544ed9a019632428971a 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5cff09bdd527544ed9a019632428971a
+2025-10-28 17:47:06,253 - WARNING - 获取用户 ou_dc99aa2771f946e2fd1f1d242432a9e3 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_dc99aa2771f946e2fd1f1d242432a9e3
+2025-10-28 17:47:06,450 - WARNING - 获取用户 ou_75c8dcd921cd4504eb4e26be69ae4c50 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_75c8dcd921cd4504eb4e26be69ae4c50
+2025-10-28 17:47:06,669 - WARNING - 获取用户 ou_ead0f5c786449b1f8d885b9fbe7e7a17 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_ead0f5c786449b1f8d885b9fbe7e7a17
+2025-10-28 17:47:06,904 - WARNING - 获取用户 ou_c8b9ae3e5ca8338fd7e2778d220355a9 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_c8b9ae3e5ca8338fd7e2778d220355a9
+2025-10-28 17:47:07,129 - WARNING - 获取用户 ou_916523de71e63043b2fc9996c7562442 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_916523de71e63043b2fc9996c7562442
+2025-10-28 17:47:07,341 - WARNING - 获取用户 ou_7204b5881c1cbb147981b26f7acf9972 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_7204b5881c1cbb147981b26f7acf9972
+2025-10-28 17:47:07,559 - WARNING - 获取用户 ou_d2b737c5ac6196202580fa95fa8da934 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_d2b737c5ac6196202580fa95fa8da934
+2025-10-28 17:47:07,788 - WARNING - 获取用户 ou_2a52445b2101e5ea649006f50083dfe7 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_2a52445b2101e5ea649006f50083dfe7
+2025-10-28 17:47:08,013 - WARNING - 获取用户 ou_8bbc995af4663b5c38b0a925c2d54b4e 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_8bbc995af4663b5c38b0a925c2d54b4e
+2025-10-28 17:47:08,224 - WARNING - 获取用户 ou_e38041bad94a7f4055bde094dc0b503a 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_e38041bad94a7f4055bde094dc0b503a
+2025-10-28 17:47:08,449 - WARNING - 获取用户 ou_fab0cb63afe6c343190b556889cf6132 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_fab0cb63afe6c343190b556889cf6132
+2025-10-28 17:47:08,631 - WARNING - 获取用户 ou_36a98d33064c2f711b6a15d1951dc5e1 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_36a98d33064c2f711b6a15d1951dc5e1
+2025-10-28 17:47:08,843 - WARNING - 获取用户 ou_f74a65bbdfcf9934615dc1280c4d903f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_f74a65bbdfcf9934615dc1280c4d903f
+2025-10-28 17:47:09,048 - WARNING - 获取用户 ou_9c8afedfd30efcb692d0279689d0709f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9c8afedfd30efcb692d0279689d0709f
+2025-10-28 17:47:09,249 - WARNING - 获取用户 ou_782fb1fa30c0cc15d10913a1b1bcac56 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_782fb1fa30c0cc15d10913a1b1bcac56
+2025-10-28 17:47:09,484 - WARNING - 获取用户 ou_6c1bd31fea1cf9a3286f1ce5cad0769d 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_6c1bd31fea1cf9a3286f1ce5cad0769d
+2025-10-28 17:47:09,667 - WARNING - 获取用户 ou_c0db391660f9572c2a4f890fa209397b 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_c0db391660f9572c2a4f890fa209397b
+2025-10-28 17:47:09,856 - WARNING - 获取用户 ou_f24ffd6435b81cac6c5c3b1ee310d92b 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_f24ffd6435b81cac6c5c3b1ee310d92b
+2025-10-28 17:47:10,152 - WARNING - 获取用户 ou_4b7092f0b9528c01c3bc08f7b20cbdd2 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_4b7092f0b9528c01c3bc08f7b20cbdd2
+2025-10-28 17:47:10,344 - WARNING - 获取用户 ou_61fc1f1d1a096962d7cb118d3eed4c6d 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_61fc1f1d1a096962d7cb118d3eed4c6d
+2025-10-28 17:47:10,580 - WARNING - 获取用户 ou_cfd6b827b16edcb1c450755487985601 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_cfd6b827b16edcb1c450755487985601
+2025-10-28 17:47:10,796 - WARNING - 获取用户 ou_57f888aae08c49c6c6ee5799d5f6c2fd 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_57f888aae08c49c6c6ee5799d5f6c2fd
+2025-10-28 17:47:11,000 - WARNING - 获取用户 ou_7b84ffe784483d5251960569b3bad4fa 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_7b84ffe784483d5251960569b3bad4fa
+2025-10-28 17:47:11,208 - WARNING - 获取用户 ou_d231e7083ec823d40a10f80cba061cec 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_d231e7083ec823d40a10f80cba061cec
+2025-10-28 17:47:11,407 - WARNING - 获取用户 ou_d63fd6b4bb7a3181033920dcc15aa421 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_d63fd6b4bb7a3181033920dcc15aa421
+2025-10-28 17:47:11,637 - WARNING - 获取用户 ou_3e5ec5359b28e5e636510c28dda59972 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_3e5ec5359b28e5e636510c28dda59972
+2025-10-28 17:47:11,831 - WARNING - 获取用户 ou_178372fed265fc7b0d8c566258cbeb98 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_178372fed265fc7b0d8c566258cbeb98
+2025-10-28 17:47:12,041 - WARNING - 获取用户 ou_95c1ef5b8acc95b7f1879d12105ce91f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_95c1ef5b8acc95b7f1879d12105ce91f
+2025-10-28 17:47:12,244 - WARNING - 获取用户 ou_1e08de9ec8057bac1614d2d44216453e 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_1e08de9ec8057bac1614d2d44216453e
+2025-10-28 17:47:12,448 - WARNING - 获取用户 ou_b4fc98037f8eb530878f62c114b8c6e3 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_b4fc98037f8eb530878f62c114b8c6e3
+2025-10-28 17:47:12,665 - WARNING - 获取用户 ou_83e940ad785e59eabf688a930fc9fc43 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_83e940ad785e59eabf688a930fc9fc43
+2025-10-28 17:47:12,884 - WARNING - 获取用户 ou_c7aa0eeec3b0d2e0aa34b8451d1ce224 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_c7aa0eeec3b0d2e0aa34b8451d1ce224
+2025-10-28 17:47:13,104 - WARNING - 获取用户 ou_9652bb3fdae730078b65424584c082b8 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9652bb3fdae730078b65424584c082b8
+2025-10-28 17:47:13,310 - WARNING - 获取用户 ou_9cc642461ed9a1aee8034cdbc1ac306d 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9cc642461ed9a1aee8034cdbc1ac306d
+2025-10-28 17:47:13,550 - WARNING - 获取用户 ou_a3709495ff294de15820c358875ffee8 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_a3709495ff294de15820c358875ffee8
+2025-10-28 17:47:13,770 - WARNING - 获取用户 ou_cdee4d6ea18233c218171335ec2b2e88 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_cdee4d6ea18233c218171335ec2b2e88
+2025-10-28 17:47:13,977 - WARNING - 获取用户 ou_e256ca04c8698eb09d4503d490603689 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_e256ca04c8698eb09d4503d490603689
+2025-10-28 17:47:14,299 - WARNING - 获取用户 ou_979efcef970580cf7db1e4eca97d5712 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_979efcef970580cf7db1e4eca97d5712
+2025-10-28 17:47:14,580 - WARNING - 获取用户 ou_fd04f38fefdc6b6e6651097f83f4593d 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_fd04f38fefdc6b6e6651097f83f4593d
+2025-10-28 17:47:14,889 - WARNING - 获取用户 ou_0d8369bf5c3491a71350a727d4413c2c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_0d8369bf5c3491a71350a727d4413c2c
+2025-10-28 17:47:15,160 - WARNING - 获取用户 ou_4820e0b5139d8097a8dc2a357d4bb0a1 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_4820e0b5139d8097a8dc2a357d4bb0a1
+2025-10-28 17:47:15,443 - WARNING - 获取用户 ou_23cf4a411aee2ce443cee01a0683474e 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_23cf4a411aee2ce443cee01a0683474e
+2025-10-28 17:47:15,750 - WARNING - 获取用户 ou_893d601fc5e699beed63776979a2c4e9 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_893d601fc5e699beed63776979a2c4e9
+2025-10-28 17:47:16,064 - WARNING - 获取用户 ou_5bd944974d103db907c34926e949445b 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5bd944974d103db907c34926e949445b
+2025-10-28 17:47:16,353 - WARNING - 获取用户 ou_9421f95e733447f7c1ba5e51cf8d9a62 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9421f95e733447f7c1ba5e51cf8d9a62
+2025-10-28 17:47:16,698 - WARNING - 获取用户 ou_48a16bbd7382f4fb6f50d8b1371f4405 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_48a16bbd7382f4fb6f50d8b1371f4405
+2025-10-28 17:47:16,992 - WARNING - 获取用户 ou_4fd3ef45465b82bd2eeb1cf560e2820f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_4fd3ef45465b82bd2eeb1cf560e2820f
+2025-10-28 17:47:17,411 - WARNING - 获取用户 ou_2aff9e5547e13cc494d6439dd7d4a8a0 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_2aff9e5547e13cc494d6439dd7d4a8a0
+2025-10-28 17:47:17,637 - WARNING - 获取用户 ou_287dcc5b9941b27070d3458d89d7e48d 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_287dcc5b9941b27070d3458d89d7e48d
+2025-10-28 17:47:17,858 - WARNING - 获取用户 ou_6fdd9b43cc812d16993138f4188480dc 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_6fdd9b43cc812d16993138f4188480dc
+2025-10-28 17:47:18,077 - WARNING - 获取用户 ou_76e556041a7693435b55b298aefe8154 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_76e556041a7693435b55b298aefe8154
+2025-10-28 17:47:18,282 - WARNING - 获取用户 ou_dd9888df2b5ed39443e442ece4948810 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_dd9888df2b5ed39443e442ece4948810
+2025-10-28 17:47:18,487 - WARNING - 获取用户 ou_e39183fe67d7bf909e09b191874734bb 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_e39183fe67d7bf909e09b191874734bb
+2025-10-28 17:47:18,694 - WARNING - 获取用户 ou_9c6c42107f7de0b2500437064188a2c8 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9c6c42107f7de0b2500437064188a2c8
+2025-10-28 17:47:18,895 - WARNING - 获取用户 ou_1fb2c85b6cdb2924ee7742c8ba8bcde9 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_1fb2c85b6cdb2924ee7742c8ba8bcde9
+2025-10-28 17:47:19,104 - WARNING - 获取用户 ou_5e645bf03152535836027a05a818512c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5e645bf03152535836027a05a818512c
+2025-10-28 17:47:19,313 - WARNING - 获取用户 ou_993acb897682d3409495411612d3204f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_993acb897682d3409495411612d3204f
+2025-10-28 17:47:19,512 - WARNING - 获取用户 ou_bf918bebe74ade3ed0dd2d5388c588c4 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_bf918bebe74ade3ed0dd2d5388c588c4
+2025-10-28 17:47:19,723 - WARNING - 获取用户 ou_4a215aa005f8f46a6b0a69eac03e7f30 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_4a215aa005f8f46a6b0a69eac03e7f30
+2025-10-28 17:47:19,936 - WARNING - 获取用户 ou_f8e4f90538b24e02f7ab789d3db91e88 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_f8e4f90538b24e02f7ab789d3db91e88
+2025-10-28 17:47:20,143 - WARNING - 获取用户 ou_8ddb124c478f59632253b3dc8db563e1 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_8ddb124c478f59632253b3dc8db563e1
+2025-10-28 17:47:20,366 - WARNING - 获取用户 ou_af270f238f8f5f53851d4d70ccc4cf5e 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_af270f238f8f5f53851d4d70ccc4cf5e
+2025-10-28 17:47:20,577 - WARNING - 获取用户 ou_9fe073330153c1db1193e19333e15194 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_9fe073330153c1db1193e19333e15194
+2025-10-28 17:47:20,797 - WARNING - 获取用户 ou_0bc47def84505b00b09233d09da55802 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_0bc47def84505b00b09233d09da55802
+2025-10-28 17:47:21,014 - WARNING - 获取用户 ou_f2bbc2d390511d38a0036d8b5d950d1c 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_f2bbc2d390511d38a0036d8b5d950d1c
+2025-10-28 17:47:21,208 - WARNING - 获取用户 ou_55be2d729329c00301444a6a783534c6 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_55be2d729329c00301444a6a783534c6
+2025-10-28 17:47:21,433 - WARNING - 获取用户 ou_a470055215e716374333172cab2d3d9a 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_a470055215e716374333172cab2d3d9a
+2025-10-28 17:47:21,668 - WARNING - 获取用户 ou_30cf0120395720a85b5dc9225e7ab836 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_30cf0120395720a85b5dc9225e7ab836
+2025-10-28 17:47:21,908 - WARNING - 获取用户 ou_3b72ffa30a0f75a10c429227bc7d821d 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_3b72ffa30a0f75a10c429227bc7d821d
+2025-10-28 17:47:22,165 - WARNING - 获取用户 ou_a06c0d4c84bc04a74e23ed268d63b118 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_a06c0d4c84bc04a74e23ed268d63b118
+2025-10-28 17:47:22,383 - WARNING - 获取用户 ou_87d9b10d0cdc31ef83f19040afedc5b8 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_87d9b10d0cdc31ef83f19040afedc5b8
+2025-10-28 17:47:22,650 - WARNING - 获取用户 ou_b1dc253f35a1ba1e6572c173fd6d2b28 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_b1dc253f35a1ba1e6572c173fd6d2b28
+2025-10-28 17:47:22,890 - WARNING - 获取用户 ou_44648b4c2b169b8c2936d9caff000856 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_44648b4c2b169b8c2936d9caff000856
+2025-10-28 17:47:23,079 - WARNING - 获取用户 ou_5109fc97846043ff5a1abd462f39c20f 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_5109fc97846043ff5a1abd462f39c20f
+2025-10-28 17:47:23,296 - WARNING - 获取用户 ou_a086794d822035507dcfe18c081d9553 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_a086794d822035507dcfe18c081d9553
+2025-10-28 17:47:23,559 - WARNING - 获取用户 ou_b5da34a57de9964c04a64541bda5a4e0 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_b5da34a57de9964c04a64541bda5a4e0
+2025-10-28 17:47:23,807 - WARNING - 获取用户 ou_a2891d6e974a5addd53a77f453634a99 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_a2891d6e974a5addd53a77f453634a99
+2025-10-28 17:47:24,029 - WARNING - 获取用户 ou_b312bd3131dce93a5debacaae9a25210 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_b312bd3131dce93a5debacaae9a25210
+2025-10-28 17:47:24,227 - WARNING - 获取用户 ou_f60e7e626591ffccefb1b181941174b1 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_f60e7e626591ffccefb1b181941174b1
+2025-10-28 17:47:24,437 - WARNING - 获取用户 ou_3ab818ddef2aba20ead923d3f21a4b93 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_3ab818ddef2aba20ead923d3f21a4b93
+2025-10-28 17:47:24,670 - WARNING - 获取用户 ou_6f3b48fddbb9c082d0d7c01992f68129 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_6f3b48fddbb9c082d0d7c01992f68129
+2025-10-28 17:47:24,919 - WARNING - 获取用户 ou_a6d4a9193375bbf85addef7888746b95 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_a6d4a9193375bbf85addef7888746b95
+2025-10-28 17:47:25,125 - WARNING - 获取用户 ou_a36d862a390ece6730a3f3a7f6faab28 信息异常: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/contact/v3/users/ou_a36d862a390ece6730a3f3a7f6faab28
+2025-10-28 17:47:25,181 - INFO - 开始写入 207 条记录到多维表格...
+2025-10-28 17:47:27,044 - INFO - 成功添加第 1 批记录 (207 条)
+2025-10-28 17:47:27,245 - INFO - 所有记录添加完成，总计 207 条
+2025-10-28 17:47:27,249 - INFO - ✅ 群成员信息已成功写入多维表格！
+2025-10-28 17:53:24,333 - INFO - 解析得到 app_token: O563bWgIwaIqy1sd9ulc15m6nCe, table_id: tblScOy4AiLem1EO
+2025-10-28 17:53:27,181 - INFO - 成功获取tenant_access_token
+2025-10-28 17:53:27,743 - INFO - 获取到 4 个字段
+2025-10-28 17:53:27,746 - INFO - 找到人员字段: 人员
+2025-10-28 17:53:27,746 - INFO - 找到群名称字段: 群名称
+2025-10-28 17:53:27,746 - INFO - 找到租户字段: 租户id
+2025-10-28 17:53:27,746 - INFO - 开始获取群聊信息...
+2025-10-28 17:53:28,044 - INFO - 开始获取群成员信息...
+2025-10-28 17:53:28,508 - INFO - 已获取 99 个群成员
+2025-10-28 17:53:29,064 - INFO - 已获取 198 个群成员
+2025-10-28 17:53:29,464 - INFO - 总共获取到 207 个群成员
+2025-10-28 17:53:40,558 - INFO - 开始写入 207 条记录到多维表格...
+2025-10-28 17:53:42,674 - INFO - 成功添加第 1 批记录 (207 条)
+2025-10-28 17:53:42,879 - INFO - 所有记录添加完成，总计 207 条
+2025-10-28 17:53:42,883 - INFO - ✅ 群成员信息已成功写入多维表格！
+2025-10-28 18:37:25,939 - INFO - 解析得到 app_token: O563bWgIwaIqy1sd9ulc15m6nCe, table_id: tblScOy4AiLem1EO
+2025-10-28 18:37:26,218 - INFO - 成功获取tenant_access_token
+2025-10-28 18:37:26,706 - INFO - 获取到 4 个字段
+2025-10-28 18:37:26,709 - INFO - 找到人员字段: 人员
+2025-10-28 18:37:26,709 - INFO - 找到群名称字段: 群名称
+2025-10-28 18:37:26,710 - INFO - 找到租户字段: 租户id
+2025-10-28 18:37:26,710 - INFO - 开始获取群聊信息...
+2025-10-28 18:37:27,022 - INFO - 群聊信息: 名称=飞书2025发布会最佳实践分享群, 租户ID=
+2025-10-28 18:37:27,022 - INFO - 开始获取群成员信息...
+2025-10-28 18:37:27,322 - ERROR - 获取群成员失败: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/im/v1/chats/oc_eb47b549d7e2c3866c664312b50ac59a/members?page_size=100
+2025-10-28 18:37:27,322 - ERROR - 程序执行失败: 400 Client Error: Bad Request for url: https://open.feishu.cn/open-apis/im/v1/chats/oc_eb47b549d7e2c3866c664312b50ac59a/members?page_size=100
+2025-10-28 18:37:49,733 - INFO - 解析得到 app_token: O563bWgIwaIqy1sd9ulc15m6nCe, table_id: tblScOy4AiLem1EO
+2025-10-28 18:37:49,997 - INFO - 成功获取tenant_access_token
+2025-10-28 18:37:50,405 - INFO - 获取到 4 个字段
+2025-10-28 18:37:50,409 - INFO - 找到人员字段: 人员
+2025-10-28 18:37:50,409 - INFO - 找到群名称字段: 群名称
+2025-10-28 18:37:50,409 - INFO - 找到租户字段: 租户id
+2025-10-28 18:37:50,410 - INFO - 开始获取群聊信息...
+2025-10-28 18:37:50,758 - INFO - 群聊API返回数据: {
+  "add_member_permission": "all_members",
+  "at_all_permission": "all_members",
+  "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v3_00og_e591d73e-bb99-486b-b8ae-a530e6a1c5eg~?image_size=100x100&cut_type=&quality=&format=jpeg&sticker_format=.webp",
+  "bot_count": "2",
+  "bot_manager_id_list": [],
+  "chat_mode": "group",
+  "chat_status": "normal",
+  "chat_tag": "no_tag",
+  "chat_type": "private",
+  "description": "",
+  "edit_permission": "all_members",
+  "external": true,
+  "group_message_type": "thread",
+  "hide_member_count_setting": "only_owner",
+  "i18n_names": {
+    "en_us": "",
+    "ja_jp": "",
+    "zh_cn": ""
+  },
+  "join_message_visibility": "only_owner",
+  "leave_message_visibility": "only_owner",
+  "membership_approval": "no_approval_required",
+  "moderation_permission": "all_members",
+  "name": "产品猎新助手反馈群",
+  "owner_id": "ou_66183453b0cc91191f605683fe3b924a",
+  "owner_id_type": "open_id",
+  "pin_manage_setting": "all_members",
+  "restricted_mode_setting": {
+    "download_has_permission_setting": "all_members",
+    "message_has_permission_setting": "all_members",
+    "screenshot_has_permission_setting": "all_members",
+    "status": false
+  },
+  "share_card_permission": "allowed",
+  "tenant_key": "15d6d1e6e508d75e",
+  "urgent_setting": "all_members",
+  "user_count": "207",
+  "user_manager_id_list": [],
+  "video_conference_setting": "all_members"
+}
+2025-10-28 18:37:50,761 - INFO - 群聊信息: 名称=产品猎新助手反馈群, 租户ID=15d6d1e6e508d75e
+2025-10-28 18:37:50,761 - INFO - 开始获取群成员信息...
+2025-10-28 18:37:51,226 - INFO - 已获取 99 个群成员
+2025-10-28 18:37:51,765 - INFO - 已获取 198 个群成员
+2025-10-28 18:37:52,271 - INFO - 总共获取到 207 个群成员
+2025-10-28 18:38:03,394 - INFO - 开始写入 207 条记录到多维表格...
+2025-10-28 18:38:05,464 - INFO - 成功添加第 1 批记录 (207 条)
+2025-10-28 18:38:05,666 - INFO - 所有记录添加完成，总计 207 条
+2025-10-28 18:38:05,667 - INFO - ✅ 群成员信息已成功写入多维表格！
+2025-10-28 18:40:14,762 - INFO - 解析得到 app_token: O563bWgIwaIqy1sd9ulc15m6nCe, table_id: tblScOy4AiLem1EO
+2025-10-28 18:40:15,089 - INFO - 成功获取tenant_access_token
+2025-10-28 18:40:15,502 - INFO - 获取到 5 个字段
+2025-10-28 18:40:15,503 - INFO - 找到人员字段: 人员
+2025-10-28 18:40:15,503 - INFO - 找到群名称字段: 群名称
+2025-10-28 18:40:15,503 - INFO - 找到租户字段: 租户id
+2025-10-28 18:40:15,503 - INFO - 开始获取群聊信息...
+2025-10-28 18:40:15,730 - INFO - 群聊信息: 名称=产品猎新助手反馈群, 租户ID=15d6d1e6e508d75e
+2025-10-28 18:40:15,730 - INFO - 开始获取群成员信息...
+2025-10-28 18:40:16,105 - INFO - 已获取 99 个群成员
+2025-10-28 18:40:16,601 - INFO - 已获取 198 个群成员
+2025-10-28 18:40:16,971 - INFO - 总共获取到 207 个群成员
+2025-10-28 18:40:28,076 - INFO - 开始写入 207 条记录到多维表格...
+2025-10-28 18:40:30,035 - INFO - 成功添加第 1 批记录 (207 条)
+2025-10-28 18:40:30,242 - INFO - 所有记录添加完成，总计 207 条
+2025-10-28 18:40:30,244 - INFO - ✅ 群成员信息已成功写入多维表格！
+2025-10-28 18:41:09,765 - INFO - 解析得到 app_token: O563bWgIwaIqy1sd9ulc15m6nCe, table_id: tblScOy4AiLem1EO
+2025-10-28 18:41:09,919 - INFO - 成功获取tenant_access_token
+2025-10-28 18:41:10,382 - INFO - 获取到 5 个字段
+2025-10-28 18:41:10,384 - INFO - 找到人员字段: 人员
+2025-10-28 18:41:10,384 - INFO - 找到群名称字段: 群名称
+2025-10-28 18:41:10,384 - INFO - 找到租户字段: 租户id
+2025-10-28 18:41:10,384 - INFO - 开始获取群聊信息...
+2025-10-28 18:41:10,624 - INFO - 群聊信息: 名称=产品猎新助手反馈群, 租户ID=15d6d1e6e508d75e
+2025-10-28 18:41:10,624 - INFO - 开始获取群成员信息...
+2025-10-28 18:41:10,939 - INFO - 群成员API返回数据结构: {
+  "member_id": "ou_c4a71d11cc959cb126f0f14ae11b1cc9",
+  "member_id_type": "open_id",
+  "name": "Colan-7",
+  "tenant_key": "15d6d1e6e508d75e"
+}
+2025-10-28 18:41:10,939 - INFO - 已获取 99 个群成员
+2025-10-28 18:41:11,421 - INFO - 已获取 198 个群成员
+2025-10-28 18:41:11,851 - INFO - 总共获取到 207 个群成员
+2025-10-28 18:41:23,002 - INFO - 开始写入 207 条记录到多维表格...
+2025-10-28 18:41:24,737 - INFO - 成功添加第 1 批记录 (207 条)
+2025-10-28 18:41:24,942 - INFO - 所有记录添加完成，总计 207 条
+2025-10-28 18:41:24,945 - INFO - ✅ 群成员信息已成功写入多维表格！
+2025-10-28 18:42:24,574 - INFO - 解析得到 app_token: O563bWgIwaIqy1sd9ulc15m6nCe, table_id: tblScOy4AiLem1EO
+2025-10-28 18:42:24,760 - INFO - 成功获取tenant_access_token
+2025-10-28 18:42:25,191 - INFO - 获取到 5 个字段
+2025-10-28 18:42:25,192 - INFO - 找到人员字段: 人员
+2025-10-28 18:42:25,192 - INFO - 找到群名称字段: 群名称
+2025-10-28 18:42:25,192 - INFO - 找到租户字段: 租户id
+2025-10-28 18:42:25,193 - INFO - 开始获取群聊信息...
+2025-10-28 18:42:25,410 - INFO - 群聊信息: 名称=产品猎新助手反馈群, 租户ID=15d6d1e6e508d75e
+2025-10-28 18:42:25,410 - INFO - 开始获取群成员信息...
+2025-10-28 18:42:25,744 - INFO - 已获取 99 个群成员
+2025-10-28 18:42:26,197 - INFO - 已获取 198 个群成员
+2025-10-28 18:42:26,785 - INFO - 总共获取到 207 个群成员
+2025-10-28 18:42:37,918 - INFO - 开始写入 207 条记录到多维表格...
+2025-10-28 18:42:39,892 - INFO - 成功添加第 1 批记录 (207 条)
+2025-10-28 18:42:40,094 - INFO - 所有记录添加完成，总计 207 条
+2025-10-28 18:42:40,098 - INFO - ✅ 群成员信息已成功写入多维表格！
